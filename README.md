@@ -5,6 +5,9 @@
 - A la pantalla anterior agregar un botón que abrirá una pantalla de configuración.
 - En dicha pantalla de configuración se podrá seleccionar la imagen que quiero mostrar en la pantalla principal (se debe actualizar el sharedPreferences).
 
+## Preview de la pagina
+![image](https://github.com/user-attachments/assets/fb22e75b-57d8-467e-a143-8a7e7fcc8b31)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
