@@ -1,6 +1,9 @@
 # ejercicio
 
-A new Flutter project.
+- Crear un widget stateless que permita mostrar tu información (nombre, correo, edad). Crear una ruta para visitar la página.
+- Crear una segunda pantalla y configurarla como pantalla principal. Dicha pantalla debe tener una imagen de fondo dinámica (la imagen será determinada por una variable en el sharedPreferences).
+- A la pantalla anterior agregar un botón que abrirá una pantalla de configuración.
+- En dicha pantalla de configuración se podrá seleccionar la imagen que quiero mostrar en la pantalla principal (se debe actualizar el sharedPreferences).
 
 ## Getting Started
 
