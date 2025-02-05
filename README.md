@@ -1,4 +1,4 @@
-# ejercicio
+# Ejercicio
 
 - Crear un widget stateless que permita mostrar tu información (nombre, correo, edad). Crear una ruta para visitar la página.
 - Crear una segunda pantalla y configurarla como pantalla principal. Dicha pantalla debe tener una imagen de fondo dinámica (la imagen será determinada por una variable en el sharedPreferences).
